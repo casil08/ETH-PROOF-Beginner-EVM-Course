@@ -1,7 +1,13 @@
-#Project: Create a Token
+# Project: Create a Token
 
-// SPDX-License-Identifier: MIT
-pragma solidity 0.8.18;
+
+## Description
+
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a single function that returns the string "Create a Token". This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
+
+## Getting Started
+
+### Executing program
 
 /*
        REQUIREMENTS
@@ -17,6 +23,8 @@ pragma solidity 0.8.18;
        to the amount that is supposed to be burned.
 */
 
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
