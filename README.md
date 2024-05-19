@@ -1,4 +1,4 @@
-# Project: Create a Token
+![image](https://github.com/casil08/Solidity-Courses/assets/156186206/9e663e41-ce4b-495d-907a-16c999657bbd)# Project: Create a Token
 
 
 ## Description
@@ -67,5 +67,13 @@ and if we check out total supply. So it has been reduced by 500. If I check our 
 
 So now the last thing to check is to make sure that we can't burn more than we have, right? So let's go ahead and put in a 1000 thousand. hmm We'll transact. That just means his function executed successfully.
 
+## Authors
 
+Metacrafter Chris  
+[@metacraftersio](https://twitter.com/metacraftersio)
+
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
