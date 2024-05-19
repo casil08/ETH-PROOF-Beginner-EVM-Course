@@ -1,4 +1,4 @@
-![image](https://github.com/casil08/Solidity-Courses/assets/156186206/9e663e41-ce4b-495d-907a-16c999657bbd)# Project: Create a Token
+# Project: Create a Token
 
 
 ## Description
